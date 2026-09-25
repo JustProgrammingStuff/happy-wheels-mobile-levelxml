@@ -39,7 +39,7 @@ User levels from the old Weebly share sites. Originals were `.happywheels` plist
 
 **Campaign (IPA):** already LevelXML. Stripped mobile-only `<info>` attrs: `ptm`, `sw`, `sh`, `r`, `cw`.
 
-**User-created (Weebly):** unwrapped plist `data`, removed `fm="m"`, `0`/`1` → `f`/`t`, coordinates/sizes ×40 for PC editor scale.
+**User-created (Weebly):** unwrapped plist `data`, removed `fm="m"`, type-aware `0`/`1` → `f`/`t`, coordinates/sizes ×40, iOS→Flash angles, IBeam size clamps (top edge preserved), interactive shapes fixed (`i="t"` → omit), and spawn nudged onto nearby floors when the iOS body marker sat below the visual vehicle.
 
 ## Source
 

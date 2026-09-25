@@ -329,7 +329,7 @@
 
       <input class="search" id="user-search" type="search" placeholder="Filter by title or author…" />
       <div class="list" id="user-list">
-            <div class="pack" data-name="2 in 1 don't move - iplay2win">
+                        <div class="pack" data-name="2 in 1 don't move - iplay2win">
         <div class="pack-info">
           <b>2 in 1 Don't Move - iPlay2Win</b>
           <span>2_in_1_don_t_move_iplay2win.xml</span>
@@ -844,8 +844,10 @@
         Weebly packs were <code>.zip</code>/<code>.rar</code>/<code>.happywheels</code> plists.
         We pull the <code>data</code> LevelXML out, remove <code>fm="m"</code>, multiply
         coordinates and real sizes by 40, map iOS angles (0–359) to Flash (−180…180),
-        convert only known bool slots to <code>t</code>/<code>f</code>, then apply the
-        same Steam/PC normalize pass as campaign (force character, background remap, etc.).
+        convert only known bool slots to <code>t</code>/<code>f</code>, clamp special sizes
+        to PC limits (iOS I-beams are often thinner than Flash allows), map shape
+        interactivity the PC way (interactive = omit <code>i</code>; never <code>i="t"</code>),
+        then apply the same Steam/PC normalize pass as campaign.
         Mobile-only Slow Motion panels (<code>t="5001"</code>) are stripped.
       </p>
       <p>
