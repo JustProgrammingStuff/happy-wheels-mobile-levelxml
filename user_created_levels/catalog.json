@@ -1,347 +1,312 @@
 [
   {
-    "title": "Spike Fall - Darkshadowguy",
-    "file": "spike_fall_darkshadowguy.xml",
-    "bytes": 1057
-  },
-  {
-    "title": "Classic Happy Wheels - NSPGamer",
-    "file": "classic_happy_wheels_nspgamer.xml",
-    "bytes": 14898
-  },
-  {
-    "title": "Building Madness - SCMonty9245",
-    "file": "building_madness_scmonty9245.xml",
-    "bytes": 6093,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
     "title": "2 in 1 Don't Move - iPlay2Win",
     "file": "2_in_1_don_t_move_iplay2win.xml",
-    "bytes": 42710,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "SlamDunk - Munikumar",
-    "file": "slamdunk_munikumar.xml",
-    "bytes": 9688
-  },
-  {
-    "title": "Don't Move Motocross - Max",
-    "file": "don_t_move_motocross_max.xml",
-    "bytes": 34361
-  },
-  {
-    "title": "BMX Park I - Andrew",
-    "file": "bmx_park_i_andrew.xml",
-    "bytes": 9818
-  },
-  {
-    "title": "Mine Mt. - Xan Acktor",
-    "file": "mine_mt_xan_acktor.xml",
-    "bytes": 23877
-  },
-  {
-    "title": "Minecraft Jetfall - Munikumar",
-    "file": "minecraft_jetfall_munikumar.xml",
-    "bytes": 80213
-  },
-  {
-    "title": "Jet Elevator - Timothy",
-    "file": "jet_elevator_timothy.xml",
-    "bytes": 4629,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Small but good don't move - Nico",
-    "file": "small_but_good_don_t_move_nico.xml",
-    "bytes": 2369,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Try if You Dare - Daniel Romero",
-    "file": "try_if_you_dare_daniel_romero.xml",
-    "bytes": 1664
-  },
-  {
-    "title": "100% IMPOSIBLE - OnC Gaming",
-    "file": "100_imposible_onc_gaming.xml",
-    "bytes": 1215,
-    "note": "Weebly also labeled this download as Death Chamber (same broken URL)."
-  },
-  {
-    "title": "Impossible Spike Fall - Seba",
-    "file": "impossible_spike_fall_seba.xml",
-    "bytes": 3803
-  },
-  {
-    "title": "Jumps by C.A. Melly",
-    "file": "jumps_by_c_a_melly.xml",
-    "bytes": 33287,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Fully Working Don't Move - C. McCluskey",
-    "file": "fully_working_don_t_move_c_mccluskey.xml",
-    "bytes": 25259
-  },
-  {
-    "title": "Bottle Run/Ball Fall - Henry D.",
-    "file": "bottle_run_ball_fall_henry_d.xml",
-    "bytes": 44425
-  },
-  {
-    "title": "Omg - Jamese Jr",
-    "file": "omg_jamese_jr.xml",
-    "bytes": 952
-  },
-  {
-    "title": "Don't Move - Mohamed Safaoui",
-    "file": "don_t_move_mohamed_safaoui.xml",
-    "bytes": 4732,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Skate Park - Mohamed Safaoui",
-    "file": "skate_park_mohamed_safaoui.xml",
-    "bytes": 5802,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Heart Donation - Zack",
-    "file": "heart_donation_zack.xml",
-    "bytes": 8103
-  },
-  {
-    "title": "The Trickery - jasonmarshall13",
-    "file": "the_trickery_jasonmarshall13.xml",
-    "bytes": 3985,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "You Won't Finish - SCMonty9245",
-    "file": "you_won_t_finish_scmonty9245.xml",
-    "bytes": 8253,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Rollerscooter - JonathanKierce",
-    "file": "rollerscooter_jonathankierce.xml",
-    "bytes": 14291,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Defender Two - LordXD",
-    "file": "defender_two_lordxd.xml",
-    "bytes": 5985,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "High Hill - NSPGamer",
-    "file": "high_hill_nspgamer.xml",
-    "bytes": 9975
-  },
-  {
-    "title": "Insane - Milan",
-    "file": "insane_milan.xml",
-    "bytes": 3753
-  },
-  {
-    "title": "Your Eyes Trick You - theriteproductions",
-    "file": "your_eyes_trick_you_theriteproductions.xml",
-    "bytes": 6032
-  },
-  {
-    "title": "Survive the Bomb - Henry D.",
-    "file": "survive_the_bomb_henry_d.xml",
-    "bytes": 7016
-  },
-  {
-    "title": "Example Level - Solomon Devard",
-    "file": "example_level_solomon_devard.xml",
-    "bytes": 967
-  },
-  {
-    "title": "Ways to Die - NSPGamer",
-    "file": "ways_to_die_nspgamer.xml",
-    "bytes": 7558,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Destructor - Franky Cifuentes",
-    "file": "destructor_franky_cifuentes.xml",
-    "bytes": 1227,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "It's Possible - AwesomeGamerNation",
-    "file": "it_s_possible_awesomegamernation.xml",
-    "bytes": 1073
-  },
-  {
-    "title": "Try and Try Again - Alyssa C",
-    "file": "try_and_try_again_alyssa_c.xml",
-    "bytes": 18962,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "No Gravity - Joshua",
-    "file": "no_gravity_joshua.xml",
-    "bytes": 7562
+    "bytes": 41532
   },
   {
     "title": "999.999% Impossible - Nathanc4294",
     "file": "999_999_impossible_nathanc4294.xml",
-    "bytes": 2312,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
+    "bytes": 2002
   },
   {
-    "title": "Speed Bridge - NSPGamer",
-    "file": "speed_bridge_nspgamer.xml",
-    "bytes": 4115
+    "title": "Ac 2 fall",
+    "file": "ac_2_fall.xml",
+    "bytes": 4296
   },
   {
-    "title": "Escape The Jets - Ethan",
-    "file": "escape_the_jets_ethan.xml",
-    "bytes": 6952
+    "title": "AC1.0",
+    "file": "ac1_0.xml",
+    "bytes": 7624
   },
   {
-    "title": "Spike Fly - Dylan",
-    "file": "spike_fly_dylan.xml",
-    "bytes": 2237,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
+    "title": "Adam Tiler - Swwoorrdd Thhrrooww",
+    "file": "adam_tiler_swwoorrdd_thhrrooww.xml",
+    "bytes": 17304
   },
   {
-    "title": "Spike Jump - Dylan",
-    "file": "spike_jump_dylan.xml",
-    "bytes": 1789
+    "title": "Aj",
+    "file": "aj.xml",
+    "bytes": 3357
   },
   {
-    "title": "Ethan - Slow Mo",
-    "file": "ethan_slow_mo.xml",
-    "bytes": 3114,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Parkour! - Jack Ord",
-    "file": "parkour_jack_ord.xml",
-    "bytes": 873
-  },
-  {
-    "title": "You Can't Escape v2 - Conner Eckerson",
-    "file": "you_can_t_escape_v2_conner_eckerson.xml",
-    "bytes": 7380
-  },
-  {
-    "title": "Caleb Trusler - Do Not Move",
-    "file": "caleb_trusler_do_not_move.xml",
-    "bytes": 4159
-  },
-  {
-    "title": "Weslin Valdez - Gangster City Part 1",
-    "file": "weslin_valdez_gangster_city_part_1.xml",
-    "bytes": 17363
-  },
-  {
-    "title": "TaikiGaming - The 99.9% Impossible",
-    "file": "taikigaming_the_99_9_impossible.xml",
-    "bytes": 1827,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Ellen Cherry - Fast vs Slow",
-    "file": "ellen_cherry_fast_vs_slow.xml",
-    "bytes": 11292,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Ultimate Road Rage - Xavier Batista",
-    "file": "ultimate_road_rage_xavier_batista.xml",
-    "bytes": 15458,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
-  },
-  {
-    "title": "Jet Mine - John Peterson Espiritu",
-    "file": "jet_mine_john_peterson_espiritu.xml",
-    "bytes": 15818
-  },
-  {
-    "title": "Jet Fall - LordLusiousLarry",
-    "file": "jet_fall_lordlusiouslarry.xml",
-    "bytes": 27518,
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
+    "title": "BMX Park I - Andrew",
+    "file": "bmx_park_i_andrew.xml",
+    "bytes": 9252
   },
   {
     "title": "Bottle Run - LordLusiousLarry",
     "file": "bottle_run_lordlusiouslarry.xml",
-    "bytes": 24178
+    "bytes": 23831
   },
   {
-    "title": "The Glitch - Spencer",
-    "file": "the_glitch_spencer.xml",
-    "bytes": 343
+    "title": "Bottle Run/Ball Fall - Henry D.",
+    "file": "bottle_run_ball_fall_henry_d.xml",
+    "bytes": 44388
   },
   {
-    "title": "AC 1.0",
-    "file": "ac_1_0.xml",
-    "bytes": 8065,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html",
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
+    "title": "Building Madness - SCMonty9245",
+    "file": "building_madness_scmonty9245.xml",
+    "bytes": 5605
   },
   {
-    "title": "Epic Arrows",
-    "file": "epic_arrows.xml",
-    "bytes": 1899,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html",
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
+    "title": "Caleb Trusler - Do Not Move",
+    "file": "caleb_trusler_do_not_move.xml",
+    "bytes": 3956
   },
   {
-    "title": "The Riddle",
-    "file": "the_riddle.xml",
-    "bytes": 1459,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html"
+    "title": "Classic Happy Wheels - NSPGamer",
+    "file": "classic_happy_wheels_nspgamer.xml",
+    "bytes": 14360
+  },
+  {
+    "title": "Death Chamber - TheParodyKey",
+    "file": "death_chamber_theparodykey.xml",
+    "bytes": 1205
+  },
+  {
+    "title": "Defender Two - LordXD",
+    "file": "defender_two_lordxd.xml",
+    "bytes": 5698
+  },
+  {
+    "title": "Destructor - Franky Cifuentes",
+    "file": "destructor_franky_cifuentes.xml",
+    "bytes": 1140
+  },
+  {
+    "title": "Don't Move - Mohamed Safaoui",
+    "file": "don_t_move_mohamed_safaoui.xml",
+    "bytes": 4685
+  },
+  {
+    "title": "Don't Move Motocross - Max",
+    "file": "don_t_move_motocross_max.xml",
+    "bytes": 34291
   },
   {
     "title": "Drop Time",
     "file": "drop_time.xml",
-    "bytes": 2500,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html",
-    "note": "Contains mobile Slow Motion Panel (t=5001)."
+    "bytes": 2396
   },
   {
-    "title": "AC The Fall",
-    "file": "ac_the_fall.xml",
-    "bytes": 4367,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html"
+    "title": "Ellen Cherry - Fast vs Slow",
+    "file": "ellen_cherry_fast_vs_slow.xml",
+    "bytes": 10975
   },
   {
-    "title": "The Endless Square",
-    "file": "the_endless_square.xml",
-    "bytes": 18459,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html"
+    "title": "Endless Square",
+    "file": "endless_square.xml",
+    "bytes": 13500
   },
   {
-    "title": "HARD",
+    "title": "Epic Arrows",
+    "file": "epic_arrows.xml",
+    "bytes": 1804
+  },
+  {
+    "title": "Escape The Jets - Ethan",
+    "file": "escape_the_jets_ethan.xml",
+    "bytes": 6908
+  },
+  {
+    "title": "Ethan - Slow Mo",
+    "file": "ethan_slow_mo.xml",
+    "bytes": 2801
+  },
+  {
+    "title": "Example Level - Solomon Devard",
+    "file": "example_level_solomon_devard.xml",
+    "bytes": 874
+  },
+  {
+    "title": "Fully Working Don't Move - C. McCluskey",
+    "file": "fully_working_don_t_move_c_mccluskey.xml",
+    "bytes": 24386
+  },
+  {
+    "title": "Hard",
     "file": "hard.xml",
-    "bytes": 3804,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html"
+    "bytes": 3538
   },
   {
-    "title": "Jet Drop",
+    "title": "Heart Donation - Zack",
+    "file": "heart_donation_zack.xml",
+    "bytes": 7991
+  },
+  {
+    "title": "High Hill - NSPGamer",
+    "file": "high_hill_nspgamer.xml",
+    "bytes": 9782
+  },
+  {
+    "title": "Impossible Spike Fall - Seba",
+    "file": "impossible_spike_fall_seba.xml",
+    "bytes": 3709
+  },
+  {
+    "title": "Insane - Milan",
+    "file": "insane_milan.xml",
+    "bytes": 3486
+  },
+  {
+    "title": "It's Possible - AwesomeGamerNation",
+    "file": "it_s_possible_awesomegamernation.xml",
+    "bytes": 1046
+  },
+  {
+    "title": "Jet drop",
     "file": "jet_drop.xml",
-    "bytes": 29754,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html"
+    "bytes": 29424
+  },
+  {
+    "title": "Jet Elevator - Timothy",
+    "file": "jet_elevator_timothy.xml",
+    "bytes": 4364
+  },
+  {
+    "title": "Jet Fall - LordLusiousLarry",
+    "file": "jet_fall_lordlusiouslarry.xml",
+    "bytes": 27172
+  },
+  {
+    "title": "Jet Mine - John Peterson Espiritu",
+    "file": "jet_mine_john_peterson_espiritu.xml",
+    "bytes": 15679
+  },
+  {
+    "title": "Jumps by C.A. Melly",
+    "file": "jumps_by_c_a_melly.xml",
+    "bytes": 32527
+  },
+  {
+    "title": "Mine Mt. - Xan Acktor",
+    "file": "mine_mt_xan_acktor.xml",
+    "bytes": 23497
+  },
+  {
+    "title": "Minecraft Jetfall - Munikumar",
+    "file": "minecraft_jetfall_munikumar.xml",
+    "bytes": 79857
+  },
+  {
+    "title": "No Gravity - Joshua",
+    "file": "no_gravity_joshua.xml",
+    "bytes": 7208
+  },
+  {
+    "title": "Omg - Jamese Jr",
+    "file": "omg_jamese_jr.xml",
+    "bytes": 836
+  },
+  {
+    "title": "Parkour! - Jack Ord",
+    "file": "parkour_jack_ord.xml",
+    "bytes": 861
+  },
+  {
+    "title": "Riddle ITS Possible",
+    "file": "riddle_its_possible.xml",
+    "bytes": 1458
+  },
+  {
+    "title": "Rollerscooter - JonathanKierce",
+    "file": "rollerscooter_jonathankierce.xml",
+    "bytes": 13925
+  },
+  {
+    "title": "Skate Park - Mohamed Safaoui",
+    "file": "skate_park_mohamed_safaoui.xml",
+    "bytes": 5727
+  },
+  {
+    "title": "SlamDunk - Munikumar",
+    "file": "slamdunk_munikumar.xml",
+    "bytes": 9673
+  },
+  {
+    "title": "Small but good don't move - Nico",
+    "file": "small_but_good_don_t_move_nico.xml",
+    "bytes": 1960
+  },
+  {
+    "title": "Speed Bridge - NSPGamer",
+    "file": "speed_bridge_nspgamer.xml",
+    "bytes": 3918
+  },
+  {
+    "title": "Spike Fall - Darkshadowguy",
+    "file": "spike_fall_darkshadowguy.xml",
+    "bytes": 1032
+  },
+  {
+    "title": "Spike Fly - Dylan",
+    "file": "spike_fly_dylan.xml",
+    "bytes": 2133
+  },
+  {
+    "title": "Spike Jump - Dylan",
+    "file": "spike_jump_dylan.xml",
+    "bytes": 1786
   },
   {
     "title": "Stairs of Death",
     "file": "stairs_of_death.xml",
-    "bytes": 3624,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html"
+    "bytes": 3572
   },
   {
-    "title": "AJ",
-    "file": "aj.xml",
-    "bytes": 3526,
-    "source": "https://happywheelsioslevels.weebly.com/levels.html"
+    "title": "Survive the Bomb - Henry D.",
+    "file": "survive_the_bomb_henry_d.xml",
+    "bytes": 7010
+  },
+  {
+    "title": "TaikiGaming - The 99.9% Impossible",
+    "file": "taikigaming_the_99_9_impossible.xml",
+    "bytes": 1718
+  },
+  {
+    "title": "The Glitch - Spencer",
+    "file": "the_glitch_spencer.xml",
+    "bytes": 341
+  },
+  {
+    "title": "The Trickery - jasonmarshall13",
+    "file": "the_trickery_jasonmarshall13.xml",
+    "bytes": 3804
+  },
+  {
+    "title": "Try and Try Again - Alyssa C",
+    "file": "try_and_try_again_alyssa_c.xml",
+    "bytes": 17412
+  },
+  {
+    "title": "Try if You Dare - Daniel Romero",
+    "file": "try_if_you_dare_daniel_romero.xml",
+    "bytes": 1599
+  },
+  {
+    "title": "Ultimate Road Rage - Xavier Batista",
+    "file": "ultimate_road_rage_xavier_batista.xml",
+    "bytes": 14737
+  },
+  {
+    "title": "Ways to Die - NSPGamer",
+    "file": "ways_to_die_nspgamer.xml",
+    "bytes": 7179
+  },
+  {
+    "title": "You Can't Escape v2 - Conner Eckerson",
+    "file": "you_can_t_escape_v2_conner_eckerson.xml",
+    "bytes": 7298
+  },
+  {
+    "title": "You Won't Finish - SCMonty9245",
+    "file": "you_won_t_finish_scmonty9245.xml",
+    "bytes": 7215
+  },
+  {
+    "title": "Your Eyes Trick You - theriteproductions",
+    "file": "your_eyes_trick_you_theriteproductions.xml",
+    "bytes": 5872
   }
 ]

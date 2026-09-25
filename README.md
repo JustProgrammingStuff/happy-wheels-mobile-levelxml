@@ -19,14 +19,15 @@ catalog.json            campaign chapter index
 
 ### pc_converted/
 
-Official mobile campaign after a small cleanup:
+Official mobile campaign after a PC/Steam normalize pass:
 
 - 15 each for Business Guy, Irresponsible Dad, Wheelchair Guy, Effective Shopper
 - 4 obstacle courses
+- Forced character, PC backgrounds only (0–2), art shapes/terrain tags fixed
 
 ### user_created_levels/
 
-User levels from the old Weebly share site. Originals were `.happywheels` plists (or zip/rar of those). Converted to normal PC-scale LevelXML. See `catalog.json` in that folder for titles.
+User levels from the old Weebly share sites. Originals were `.happywheels` plists (or zip/rar of those). Converted to PC-scale LevelXML (×40 coords/sizes, iOS→Flash angles, type-aware bools) plus the same Steam normalize pass. See `catalog.json` in that folder for titles.
 
 ### extras/
 
