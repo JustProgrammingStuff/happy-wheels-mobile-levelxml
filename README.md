@@ -1,5 +1,7 @@
 # Happy Wheels iOS levels
 
+**Download page:** [justprogrammingstuff.github.io/happy-wheels-mobile-levelxml](https://justprogrammingstuff.github.io/happy-wheels-mobile-levelxml/)
+
 Pulled from Happy Wheels iOS 1.1.5, plus community levels from
 [happywheelsios.weebly.com](https://happywheelsios.weebly.com/levels.html) and
 [happywheelsioslevels.weebly.com](https://happywheelsioslevels.weebly.com/levels.html).
@@ -14,8 +16,6 @@ user_created_levels/    community levels converted for PC
 extras/                 unfinished Pogo DEV + Dad boss + HD variants
 catalog.json            campaign chapter index
 ```
-
-Enable GitHub Pages on this repo (root `/`) to use the download page.
 
 ### pc_converted/
 
