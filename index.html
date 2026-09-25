@@ -172,6 +172,13 @@
       border: 1px solid #ddd;
     }
     .muted { color: #888; font-size: 11px; margin-top: 0.15rem; }
+    .stats {
+      margin: 0 0 0.5rem;
+      text-align: center;
+      font-size: 12px;
+      color: #555;
+    }
+    .stats-sep { margin: 0 0.35rem; color: #aaa; }
     footer {
       margin-top: 0.25rem;
       text-align: center;
@@ -799,8 +806,17 @@
     </section>
 
     <footer>
+      <p class="stats">
+        <span>Visitors: <strong id="stat-visits">—</strong></span>
+        <span class="stats-sep">·</span>
+        <span>Downloads: <strong id="stat-downloads">—</strong></span>
+      </p>
+      <p class="muted" style="text-align:center;margin:0 0 0.5rem">
+        Counts use a free third-party counter (GitHub Pages can't store numbers by itself).
+      </p>
       Unofficial fan dump · Happy Wheels © its owners · please don't sue me
     </footer>
+  <script src="stats.js"></script>
   </div>
 
   <script>
